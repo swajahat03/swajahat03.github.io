@@ -1,0 +1,25 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.punch {
+    margin-right: 80px;
+    font-family: "Times New Roman";
+    color:white;
+    transform: translateX(16%);
+}
+
+.button {
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    -ms-transform: translateY(-50%);
+    transform: translateX(45%);
+    position: relative;
+  }
+
+  .row {
+    margin: 0;
+    -ms-transform: translateY(-50%);
+    transform: translateX(3%);
+    position: relative;
+  }
